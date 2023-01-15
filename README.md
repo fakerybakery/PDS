@@ -16,7 +16,7 @@ Do you want to contribute to PDS? Our songs are currently synthesized using a co
 
 ## License
 
-License: The Unlicense
+License: The Unlicense (basically do whatever you want with it)
 
 ```
 This is free and unencumbered software released into the public domain.
