@@ -12,7 +12,7 @@ A collection of public domain songs. Use them in videos, as audio, or play them 
 
 ## Assistance Needed
 
-Do you want to contribute to PDS? Our songs are currently synthesized using a computer, but if you'd be willing to actually play the songs, that would be great!
+Do you want to contribute to PDS? Our songs are currently synthesized using a computer, but if you'd be willing to actually play the songs, that would be great! If you want to contribute, please [create a GitHub issue](https://github.com/fakerybakery/PDS/issues) and you can request sheet music.
 
 ## License
 
