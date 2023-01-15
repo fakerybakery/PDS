@@ -1,6 +1,12 @@
 # PDS
 
-A collection of public domain songs.
+## Introduction
+
+A collection of public domain songs. Use them in videos, as audio, or play them anywhere. No rights reserved.
+
+## Assistance Needed
+
+Do you want to contribute to PDS? Our songs are currently synthesized using a computer, but if you'd be willing to actually play the songs, that would be great!
 
 ## License
 
