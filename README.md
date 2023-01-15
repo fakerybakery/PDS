@@ -1,5 +1,11 @@
 # PDS
 
+## How to Access the Songs
+
+Follow [this link](https://github.com/fakerybakery/PDS/tree/main/songs) to access the song index or open the `songs` folder.
+
+If you enjoy these songs, please star [this repository!](https://github.com/fakerybakery/PDS)
+
 ## Introduction
 
 A collection of public domain songs. Use them in videos, as audio, or play them anywhere. No rights reserved.
